@@ -10,7 +10,7 @@
 #### I'm a discord bot developer & learning web developer.
 - Kodist
 - 13 y/o
-~ <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/pronouns/hehim.svg" />
+ <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/pronouns/hehim.svg" />
 
 ---
 

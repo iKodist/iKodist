@@ -28,8 +28,6 @@
 ### 📊 &nbsp;Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iKodist)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iKodist&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
 ### <img src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" width="20" height="20"/> &nbsp;Discord Stuff :

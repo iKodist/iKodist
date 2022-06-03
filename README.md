@@ -12,6 +12,9 @@
 - 13 y/o
 - <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/pronouns/hehim.svg" />
 
+---
+
+#### 📌 &nbsp;More About Me :
 - 👋 I'm currently working on a Discord bot and [a website](https://snox-dev.tk).
 - 🌱 Interested in engineering and coding.
 - ⚡ In my free time I like hanging out with friends.

@@ -58,4 +58,4 @@ Return;<br>
 
 ### <img src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" width="20" height="20"/> &nbsp;Discord Stuff :
 [![Discord Presence](https://lanyard.cnrad.dev/api/942380890791764029)](https://discord.com/users/942380890791764029)
-[![Join Dekoded](https://inv.wtf/widget/glow)](https://discord.gg/QwGwf74HWG)
+[![Join Dekoded](https://inv.wtf/widget/dekoded)](https://inv.wtf/dekoded)

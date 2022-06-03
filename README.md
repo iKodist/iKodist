@@ -16,34 +16,10 @@
 
 ---
 
-### 🙏 &nbsp;Programmer's Prayer :
-
-<p align="center">
-  
-> Our program, who art in memory,<br>
-called by thy name;<br>
-thy operating system run;<br>
-thy function be done at runtime<br>
-as it was in development.<br>
-Give us this day our daily output.<br>
-And forgive us our code duplication,<br>
-as we forgive those who<br>
-duplicate code against us.<br>
-And lead us not into frustration;<br>
-but deliver us from GOTOs.<br>
-For thine is the algorithm,<br>
-the computation, and the solution,<br>
-looping forever and ever.<br>
-Return;<br>
-  
-</p>
-
----
-
 ### 🛠 &nbsp;Languages and Tools :
 <p>  
   
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,html,css,python,bots&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,python,html,css&perline=5)](https://skillicons.dev)
   
 </p>
 

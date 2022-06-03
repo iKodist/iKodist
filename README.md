@@ -6,7 +6,7 @@
 
 </div>
 
-### 👨‍💻 &nbsp;About Me:
+### 👨‍💻 &nbsp;About Me :
 #### I'm a discord bot developer & learning web developer.
 
 - 👋 I'm currently working on a Discord bot and [a website](https://snox-dev.tk).

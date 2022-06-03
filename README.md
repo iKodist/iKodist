@@ -8,15 +8,14 @@
 
 ### 👨‍💻 &nbsp;About Me :
 #### I'm a discord bot developer & learning web developer.
+- Kodist
+- 13 y/o
+- <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/pronouns/hehim.svg" />
 
 - 👋 I'm currently working on a Discord bot and [a website](https://snox-dev.tk).
 - 🌱 Interested in engineering and coding.
 - ⚡ In my free time I like hanging out with friends.
 - 📫 The best way to reach me is on [Discord](https://discord.gg/QwGwf74HWG).
-
-### Name: Kodist
-### Age: 13 years old
-### Pronouns: <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/pronouns/hehim.svg" />
 
 ---
 

@@ -22,11 +22,10 @@
    <p align="center">
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" />
 
-<p>  
-  
-[![My Skills](https://skillicons.dev/icons?i=nodejs,python,html,css&perline=5)](https://skillicons.dev)
-  
-</p>
+- My Skills
+
+   <p align="center">
+      [![My Skills](https://skillicons.dev/icons?i=nodejs,python,html,css&perline=5)](https://skillicons.dev)
 
 ---
 

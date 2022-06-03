@@ -31,5 +31,5 @@
 ---
 
 ### <img src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" width="20" height="20"/> &nbsp;Discord Stuff :
-[![Discord Presence](https://lanyard.cnrad.dev/api/942380890791764029)](https://discord.com/users/942380890791764029)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/971909144804229191?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/971909144804229191)
 [![Join Dekoded](https://inv.wtf/widget/dekoded)](https://inv.wtf/dekoded)

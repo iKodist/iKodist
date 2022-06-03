@@ -1,4 +1,4 @@
-# Hey there, I'm Kodist 👋
+# Hey there, I'm Kodist
 
 <div align="center">
 

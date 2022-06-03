@@ -14,6 +14,10 @@
 - ⚡ In my free time I like hanging out with friends.
 - 📫 The best way to reach me is on [Discord](https://discord.gg/QwGwf74HWG).
 
+### Name: Kodist
+### Age: 13 years old
+### Pronouns: <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/pronouns/hehim.svg" />
+
 ---
 
 ### 🛠 &nbsp;Languages and Tools :

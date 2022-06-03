@@ -6,7 +6,7 @@
 
 </div>
 
-### 👨‍💻 &nbsp;About Me :
+### 👨‍💻 &nbsp;About Me:
 #### I'm a discord bot developer & learning web developer.
 
 - 👋 I'm currently working on a Discord bot and [a website](https://snox-dev.tk).
@@ -26,7 +26,7 @@
 ---
 
 ### 📊 &nbsp;Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iKodist)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iKodist)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iKodist&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 

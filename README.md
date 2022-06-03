@@ -25,7 +25,7 @@
 - My Skills
 
    <p align="center">
-      <img src=[![My Skills](https://skillicons.dev/icons?i=nodejs,python,html,css&perline=5)](https://skillicons.dev) />
+      <img src="https://skillicons.dev/icons?i=nodejs,python,html,css&perline=5" />
 
 ---
 

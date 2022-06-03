@@ -43,16 +43,16 @@ Return;<br>
 ### 🛠 &nbsp;Languages and Tools :
 <p>  
   
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,html,css,java,mongodb,stackoverflow,bots&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,html,css,python,bots&perline=5)](https://skillicons.dev)
   
 </p>
 
 ---
 
 ### 📊 &nbsp;Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Glowstudent777)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iKodist)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Glowstudent777&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iKodist&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 

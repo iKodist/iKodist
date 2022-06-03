@@ -32,5 +32,5 @@
 
 ### <img src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" width="20" height="20"/> &nbsp;Discord Stuff :
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/942380890791764029?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Currently%20watching%20Heartland%20on%20Netflix%20❤️)](https://discord.com/users/942380890791764029)
-![](https://dcbadge.vercel.app/api/shield/942380890791764029?style=flat-square&theme=blurple&compact=false)
+![](https://dcbadge.vercel.app/api/shield/942380890791764029?style=social&theme=default&compact=false)
 [![Join Dekoded](https://inv.wtf/widget/dekoded)](https://inv.wtf/dekoded)

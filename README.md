@@ -22,7 +22,7 @@
    <p align="center">
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" />
 
-- Skills Skills
+- Skills
 
    <p align="center">
       <img src="https://skillicons.dev/icons?i=nodejs,python,html,css&perline=5" />

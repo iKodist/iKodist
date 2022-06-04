@@ -1,11 +1,5 @@
 # Hey there, I'm Kodist
 
-<div align="center">
-
-[![img](bannerThing.svg)](#)
-
-</div>
-
 ### 👨‍💻 &nbsp;About Me :
 #### I'm a discord bot developer & learning web developer.
 - Kodist
@@ -14,7 +8,7 @@
 
 ---
 
-#### 📌 &nbsp;More About Me :
+### 📌 &nbsp;More About Me :
 - 👋 I'm currently working on a Discord bot and [a website](https://snox-dev.tk).
 - 🌱 Interested in engineering and coding.
 - ⚡ In my free time I like hanging out with friends.
@@ -32,11 +26,6 @@
 
    <p align="center">
       <img src="https://skillicons.dev/icons?i=nodejs,python,html,css&perline=5" />
-
----
-
-### 📊 &nbsp;Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iKodist)](https://git.io/streak-stats)
 
 ---
 

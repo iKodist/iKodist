@@ -25,10 +25,22 @@
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/powershell.svg" />
        <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/bash.svg" />
  
-- Skills
-
+- Languages
    <p align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs,python,html,css&perline=5" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,html,css&perline=5" />
+
+- Platforms
+    <p align="center">
+     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/desktop.svg" />
+     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/mobile.svg" />
+     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/devices/nintendo.svg" />
+
+- Misc
+    <p align="center">
+     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/chrome.svg" />
+     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/firefox.svg" />
+     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/edge.svg" />
+
 
 ---
 
